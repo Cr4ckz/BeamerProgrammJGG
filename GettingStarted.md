@@ -7,4 +7,6 @@ Hier ist eine Vorschua der Config zu sehen. Sie kann mit jedem normalen Textedit
 + Der boolean"show" gibt hierbei an ob das Feld zum Benachrichtigen angezeigt wird(Standard false).
 + Der String "link" ist der Link zur Plattform für die Fehlermeldungen.
 + Die Strings "dialogtitel" und "dialogtext" geben die Möglichkeit den angezeigtem Text bei anklicken des Feldes zu ändern.
-![ ](https://github.com/Cr4ckz/BeamerProgrammJGG/blob/main/config.png?raw=true)
+![ ](https://github.com/Cr4ckz/BeamerProgrammJGG/blob/main/Dialog.png?raw=true)
+Der Dialogtitel steht dabei oben und der Dialogtext unten.</br></br>
+Nach dem Speichern der config lässt sich die .exe Datei mit den Packages in eine Installationsdatei umwandeln. Die Anleitung hierzu folgt noch.
