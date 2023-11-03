@@ -1,5 +1,7 @@
 # Getting Started
 
+## Windows
+
 Es wird empfohlen die Dateiversion in .exe herunterzuladen um die config Datei verändern zu können.</br>
 Die config Datei befindet sich als "Settings.txt" im Ordner der Dateien. Diese config Datei enthält jedoch lediglich die Möglichkeit bei Problemen eine Website zu öffnen welche benutzt werde kann, um die auftretenden fehler z.B
 an den Systembetreuer weiterleitet.
@@ -13,5 +15,15 @@ Hier ist eine Vorschua der Config zu sehen. Sie kann mit jedem normalen Textedit
 Der Dialogtitel steht dabei oben und der Dialogtext unten.</br>
 Desweiteren können der Link des PDFs geändert werden("pdflink"), aktuell in der Google drive gespeichert, Kopie befindet sich allerdings auch auf GitHub </br>
 Der bool-Wert "showgit" blendete die Anzeige des Github-Links auf der Startseite aus</br>
-Eine Kopoie der config ist als "Settings.txt" auf GitHub zu finden</br></br>
-Nach dem Speichern der config lässt sich die .exe Datei mit den Packages in eine Installationsdatei umwandeln. Die Anleitung hierzu folgt noch.
+Eine Kopie der config ist als "Settings.txt" auf GitHub zu finden</br></br>
+Nach dem Speichern der config lässt sich die .exe Datei mit den Packages in eine Installationsdatei umwandeln. Die Anleitung hierzu folgt noch.</br>
+
+## Android
+
+Zuerst die .apk-DAtei herunterladen und anschließend auf dem Android-Gerät installieren. </br>
+Hierfür muss u.U. das Installieren von Dateien aus Unbekannten Quellen installiert werden. </br>
+Dies wird nur für Fortgeschrittene Benutzer empfohlen
+
+---
+
+Stand: 03.11.2023
