@@ -1,0 +1,1 @@
+{"show":true,"link":"www.google.com","dialogtitel":"Systembetreuer benachrichtigen","dialogtext":"Wollen Sie den Systembetreuer über einen Fehler benachrichtigen, welchen Sie nicht beheben können?\n(verwendet das Schulinterne Onlineformular)","pdflink":"https://drive.google.com/file/d/1qCfoGEH5rShcmj3U8DPQXxV9vQsrMRkL/view?usp=sharing","showgit":true}
